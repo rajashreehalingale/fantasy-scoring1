@@ -1,5 +1,5 @@
 const { expect } = require('chai')
-const { describe, it } = require('mocha')
+// const { describe, it } = require('mocha')
 const calculateScore = require('./scoring')
 
 describe('calculateScore', () => {
